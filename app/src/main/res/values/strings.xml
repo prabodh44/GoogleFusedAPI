@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleFusedApi</string>
+    <string name="location_text">Location Text</string>
+</resources>
